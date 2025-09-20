@@ -120,7 +120,7 @@ VS Code can help with reviewing your code, either for a code block in the editor
 To review a code block in the editor:
 
 1. Open your application code file.
-1. Select the code you want to fix.
+1. Select the code you want to review.
 1. Right-click and select **Generate Code** > **Review**.
 
     VS Code creates review comments in the **Comments** panel and also shows them inline in the editor.
